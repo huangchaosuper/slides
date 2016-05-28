@@ -1,0 +1,28 @@
+{
+  "name": "slides",
+  "version": "0.1.0",
+  "description": "幻灯片",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "dependencies": {
+    "jquery": "= 2.2.1",
+    "reveal.js":"= 3.3.0"
+  },
+  "keywords": [
+    "slides"
+  ],
+  "authors": [
+    "huangchaosuper@live.cn"
+  ],
+  "license": "Apache Licence 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
